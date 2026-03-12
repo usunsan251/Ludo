@@ -1,8 +1,13 @@
+
 # Ludo Project
 ## 🎲 Digital Board Game Implementation (Technical Detail)
 
 伝統的なボードゲーム「Ludo」をUnityで再現したプロジェクトです。
 Rigidbodyを用いた物理演算ダイス、Cinemachineによる動的なカメラスイッチング、そしてNodeベースの経路管理システムを統合し、実物に近いプレイ感覚のデジタル化を目指しています。
+
+<img width="1919" height="1079" alt="スクリーンショット 2025-09-19 104944" src="https://github.com/user-attachments/assets/5caa841c-4b1f-4b62-bf21-a0e416dcbd96" />
+
+
 
 ## 🧠 Application Concept
 
